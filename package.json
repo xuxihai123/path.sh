@@ -1,0 +1,19 @@
+{
+  "name": "path_env",
+  "version": "1.0.0",
+  "description": "show path  environment value one by one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxihai123/path_env.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuxihai123/path_env/issues"
+  },
+  "homepage": "https://github.com/xuxihai123/path_env#readme"
+}
