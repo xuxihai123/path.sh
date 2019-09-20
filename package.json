@@ -1,5 +1,5 @@
 {
-  "name": "path_env",
+  "name": "path.sh",
   "version": "1.0.0",
   "description": "show path  environment value one by one",
   "main": "index.js",
@@ -7,16 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "path_env": "index.js"
+    "path.sh": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xuxihai123/path_env.git"
+    "url": "git+https://github.com/xuxihai123/path.sh.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xuxihai123/path_env/issues"
+    "url": "https://github.com/xuxihai123/path.sh/issues"
   },
-  "homepage": "https://github.com/xuxihai123/path_env#readme"
+  "homepage": "https://github.com/xuxihai123/path.sh#readme"
 }
