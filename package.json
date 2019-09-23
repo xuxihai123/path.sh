@@ -1,6 +1,6 @@
 {
   "name": "path.sh",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "show path  environment value one by one",
   "main": "index.js",
   "scripts": {
